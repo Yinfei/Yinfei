@@ -6,17 +6,11 @@ I've been working in Software Engineering for 10 years, mostly with <img src="ht
 
 ---
 
-#### <i>😄 Pronouns: ...</i>
-He/Him
-
 #### <i>🔭 I’m currently working on ...</i>
 Mostly adapting Tabletop RPG rules into Ruby gems and other secret shenanigans 👀
 
 #### <i>🌱 I’m currently learning ...</i>
 I'll probably go back to Rust and Javascript soon.
-
-#### <i>📫 How to reach me: ...</i>
-For career opportunities or anything else Linkedin would probably be the best option.
 
 ---
 
