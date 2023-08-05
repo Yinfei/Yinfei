@@ -1,6 +1,6 @@
 # Hello there 🙋‍♂️
 
-Hi! I'm Yohan, currently <b>Chief Technology and Product Officer</b> at [Colonies](https://www.livecolonies.com/en).
+Hi! I'm Yohan, formerly <b>Chief Technology and Product Officer</b> at [Colonies](https://www.livecolonies.com/en).
 
 I've been working in Software Engineering for 10 years, mostly with <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/262px-Ruby_logo.svg.png" alt="ruby-lang logo" width="15" /> Ruby and its ecosystem.
 
