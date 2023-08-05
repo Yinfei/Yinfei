@@ -14,7 +14,7 @@ I'll probably go back to Rust and Javascript soon.
 
 ---
 
-[![Linkedin: jbbouhier](https://img.shields.io/badge/Yohan-Piron-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yohan-piron-6a4a706a/)](https://www.linkedin.com/in/yohan-piron-6a4a706a/)
+[![Linkedin: yohan-piron](https://img.shields.io/badge/Yohan-Piron-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yohan-piron-6a4a706a/)](https://www.linkedin.com/in/yohan-piron-6a4a706a/)
 [![Github](https://img.shields.io/github/followers/yinfei?label=Follow&style=social)](https://github.com/yinfei)
 
 <!--
