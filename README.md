@@ -1,8 +1,8 @@
 # Hello there 🙋‍♂️
 
-Hi! I'm Yohan, formerly <b>Chief Technology and Product Officer</b> at [Colonies](https://www.livecolonies.com/en). Currently on parental leave but open to job opportunities.
+Hi! I'm Yohan, formerly <b>Chief Technology and Product Officer</b> at [Colonies](https://www.livecolonies.com/en). Currently freelance but open to full-time job opportunities.
 
-I've been working in Software Engineering for 10 years, mostly with <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/262px-Ruby_logo.svg.png" alt="ruby-lang logo" width="15" /> Ruby and its ecosystem.
+I've been working in Software Engineering for 11 years, mostly with <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/262px-Ruby_logo.svg.png" alt="ruby-lang logo" width="15" /> Ruby and its ecosystem.
 
 ---
 
